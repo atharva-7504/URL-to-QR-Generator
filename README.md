@@ -41,9 +41,6 @@ Instead of using basic input methods, inquirer provides:
 4️⃣ Once the user submits the input, the value is stored in an object.
 5️⃣ This value is then used to generate the QR code.
 
-📍 Example:
-User input:
-➡️ https://example.com
 
 Inquirer stores this input and passes it to the QR generator logic.
 
@@ -111,6 +108,9 @@ like inquirer and qr-image to build useful applications. It helps in
 understanding user input handling, QR code generation, and file system
 operations in Node.js.
 
-=================================
-✅ END OF README
-=================================
+<img width="1912" height="955" alt="Screenshot 2025-12-31 202533" src="https://github.com/user-attachments/assets/452e17bc-d9eb-469e-a5f2-3dee856a7892" />
+
+
+
+
+<img width="1912" height="952" alt="Screenshot 2025-12-31 202544" src="https://github.com/user-attachments/assets/f4a1a1a3-79e7-40de-9caf-6c91dcd19f0b" />
