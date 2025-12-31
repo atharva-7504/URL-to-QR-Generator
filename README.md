@@ -108,6 +108,8 @@ like inquirer and qr-image to build useful applications. It helps in
 understanding user input handling, QR code generation, and file system
 operations in Node.js.
 
+
+
 <img width="1912" height="955" alt="Screenshot 2025-12-31 202533" src="https://github.com/user-attachments/assets/452e17bc-d9eb-469e-a5f2-3dee856a7892" />
 
 
