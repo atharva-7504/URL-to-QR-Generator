@@ -44,6 +44,7 @@ image. It supports formats such as PNG and SVG.
 
 <img width="1912" height="952" alt="Screenshot 2025-12-31 202544" src="https://github.com/user-attachments/assets/0f03eb9a-aab7-457f-8694-131a8e1a9f28" />
 
+<br>
 
 <img width="1912" height="955" alt="Screenshot 2025-12-31 202533" src="https://github.com/user-attachments/assets/90d8efa7-9604-4e11-b852-9e7066542247" />
 
