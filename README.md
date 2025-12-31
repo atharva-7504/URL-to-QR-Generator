@@ -1,22 +1,60 @@
-QR CODE GENERATOR USING NODE.JS
+📌 QR CODE GENERATOR USING NODE.JS
+================================
 
-Project Description
-This project is a simple QR Code Generator developed using Node.js. It takes input from the user and generates a QR code image for the provided text or URL.
+🧾 1. ABOUT THE PROJECT
+----------------------
+This project is a QR Code Generator developed using Node.js. It allows the
+user to enter a text or URL and generates a QR code image for the given input.
 
-Technologies Used
-Node.js
-inquirer
-qr-image
-fs module
+The project focuses on understanding how external npm packages can be used
+to build useful command-line applications.
 
-Use of Inquirer
-Inquirer is used to take input from the user through the command line. It provides an interactive and easy way to ask questions and receive user input in a Node.js application.
 
-Use of qr-image
-The qr-image package is used to convert the user input into a QR code. It generates a QR code image in PNG format that can be scanned using any QR scanner.
+🛠️ 2. TECHNOLOGIES AND PACKAGES USED
+-----------------------------------
+- Node.js
+- inquirer
+- qr-image
+- fs (File System module)
 
-Working of the Project
-First, the user enters a text or URL using inquirer. Then, the qr-image package generates a QR code for the input. Finally, the fs module saves the generated QR code as an image file.
 
-Conclusion
-This project helps in understanding how to use external npm packages in Node.js for building command-line applications and performing file operations.
+💡 3. PURPOSE OF USING INQUIRER
+------------------------------
+Inquirer is used to take input from the user through the terminal. It provides
+an interactive and user-friendly command-line interface for collecting input.
+
+
+🔳 4. PURPOSE OF USING QR-IMAGE
+------------------------------
+The qr-image package is used to convert user input into a scannable QR code
+image. It supports formats such as PNG and SVG.
+
+
+⚙️ 5. PROJECT WORKING FLOW
+-------------------------
+1. The user runs the Node.js application.
+2. The application asks the user to enter a text or URL.
+3. The input is collected using inquirer.
+4. A QR code is generated using qr-image.
+5. The QR code image is saved using the fs module.
+
+
+🖼️ 6. PROJECT OUTPUT (SCREENSHOT)
+--------------------------------
+
+<img width="1912" height="955" alt="Screenshot 2025-12-31 202533" src="https://github.com/user-attachments/assets/69d5ec65-c89a-4b05-9cac-6320f0b8f8f6" />
+
+
+
+<img width="1912" height="952" alt="Screenshot 2025-12-31 202544" src="https://github.com/user-attachments/assets/0fc8b680-ca9b-4ecd-b740-0378a2a3d26b" />
+
+
+🏁 7. CONCLUSION
+----------------
+This project demonstrates the use of Node.js with external npm packages like
+inquirer and qr-image. It is suitable for beginners to understand CLI-based
+applications and file handling in Node.js.
+
+==============================
+✅ END OF README
+==============================
